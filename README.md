@@ -3,4 +3,4 @@ Analyzed last.fm scrobbling data for my own personal account and used Tableau to
 
 PDF File:
 
-file:///C:/Users/zpoet/Downloads/Analysis%20on%20Last.fm%20Scrobbling%20Data.pdf
+https://docs.google.com/presentation/d/e/2PACX-1vRYJanHZbLSIiUp1rlJpiCbDicz8_TPSVwS9kTBc5pY14agJguPJXh6NP3VM1GeMjwCtLBqXT1xMZO5/pub?start=true&loop=false&delayms=3000
