@@ -1,4 +1,4 @@
-# Data-Analysis
+# Last.fm Scrobbling Data Analysis
 Analyzed last.fm scrobbling data for my own personal account and used Tableau to visualize data findings.
 
 PDF File:
